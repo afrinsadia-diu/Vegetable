@@ -1,0 +1,49 @@
+
+.container{font-family: 'Lora', serif;}
+
+.yellow{
+    color: yellow;
+}
+.green{
+    color: green;
+}
+
+.banner{
+    background-image: url(img/banner/cover.jpg);
+    background-repeat: no-repeat;
+   background-position: center;
+    height: 60vh;
+}
+.banner h1{
+    color: green;
+}
+.button{
+    text-decoration: none;
+    background-color: green;
+    color: white;
+}
+.button:hover{
+    background-color:white;
+    color: green;
+}
+
+.icon{
+    height: 50px;
+    width: 50px;
+    margin-top: 20px;
+}
+
+.products-heading{
+    text-align: center;
+    font-weight: bold;
+    margin: 10px;
+}
+
+.prices{
+    color: red;
+    font-weight: bold;
+    font-size: medium;
+}
+.pre-prices{
+    color: slategrey;
+}
